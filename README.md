@@ -400,6 +400,7 @@ MIT
 - [x] Dark mode extraction (via `--dark-mode` flag)
 - [x] Mobile viewport support (via `--mobile` flag)
 - [x] Clickable terminal links for modern terminals
+- [?] Figma integration branch: `figma-integration`
 - [ ] Animation/transition detection
 - [ ] Interactive state capture (hover, focus, active)
 - [ ] Multi-page analysis
