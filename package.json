@@ -28,10 +28,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thevangelist/dembrandt.git"
+    "url": "https://github.com/dembrandt/dembrandt.git"
   },
   "bugs": {
-    "url": "https://github.com/thevangelist/dembrandt/issues"
+    "url": "https://github.com/dembrandt/dembrandt/issues"
   },
   "homepage": "https://dembrandt.com",
   "author": "thevangelist <info@esajuhana.com>",

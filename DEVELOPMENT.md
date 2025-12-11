@@ -6,7 +6,7 @@ This guide covers development workflows, testing, and contribution guidelines fo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/thevangelist/dembrandt.git
+git clone https://github.com/dembrandt/dembrandt.git
 cd dembrandt
 ```
 
@@ -336,6 +336,6 @@ cat output/stripe.com/latest.json | jq .
 
 ## Support
 
-- Issues: https://github.com/thevangelist/dembrandt/issues
-- Discussions: https://github.com/thevangelist/dembrandt/discussions
+- Issues: https://github.com/dembrandt/dembrandt/issues
+- Discussions: https://github.com/dembrandt/dembrandt/discussions
 - Email: info@esajuhana.com

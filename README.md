@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/dembrandt.svg)](https://www.npmjs.com/package/dembrandt)
 [![npm downloads](https://img.shields.io/npm/dm/dembrandt.svg)](https://www.npmjs.com/package/dembrandt)
-[![license](https://img.shields.io/npm/l/dembrandt.svg)](https://github.com/thevangelist/dembrandt/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/dembrandt.svg)](https://github.com/dembrandt/dembrandt/blob/main/LICENSE)
 
 Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command.
 
@@ -93,7 +93,7 @@ Ethical: Use for inspiration and analysis, not direct copying. Respect servers (
 
 Bugs you found? Weird websites that make it cry? Pull requests (even one-liners make me happy)?
 
-Spam me in [Issues](https://github.com/thevangelist/dembrandt/issues) or PRs. I reply to everything.
+Spam me in [Issues](https://github.com/dembrandt/dembrandt/issues) or PRs. I reply to everything.
 
 Let's keep the light alive together.
 
