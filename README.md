@@ -10,11 +10,13 @@ Extract any website’s design system into design tokens in a few seconds: logo,
 
 ## Install
 
+Install globally: `npm install -g dembrandt`
+
 ```bash
-npx dembrandt bmw.de
+dembrandt bmw.de
 ```
 
-Or install globally: `npm install -g dembrandt` then run `dembrandt bmw.de`
+Or use npx without installing: `npx dembrandt bmw.de`
 
 Requires Node.js 18+
 
@@ -53,14 +55,7 @@ dembrandt stripe.com --dtcg
 # Saves to: output/stripe.com/TIMESTAMP.tokens.json
 ```
 
-Transform DTCG tokens to platform-specific formats using [Style Dictionary](https://styledictionary.com):
-
-```bash
-# Generate CSS variables, SCSS, JavaScript, TypeScript
-npm run build:tokens
-```
-
-Outputs CSS custom properties, SCSS variables, ES6 modules, and TypeScript definitions. See [STYLE-DICTIONARY.md](STYLE-DICTIONARY.md) for details.
+The DTCG format is an industry-standard JSON schema that can be consumed by design tools and token transformation libraries like [Style Dictionary](https://styledictionary.com).
 
 ## Use Cases
 
