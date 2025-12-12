@@ -15,9 +15,7 @@
     "start": "node index.js",
     "brand-challenge": "node run-no-login-challenge.mjs",
     "brand-challenge:report": "node run-no-login-challenge.mjs || true",
-    "install-browser": "npx playwright install chromium || echo 'Playwright browser installation failed. You may need to install system dependencies manually.'",
-    "build:tokens": "style-dictionary build --config style-dictionary.config.js",
-    "clean:tokens": "style-dictionary clean --config style-dictionary.config.js"
+    "install-browser": "npx playwright install chromium || echo 'Playwright browser installation failed. You may need to install system dependencies manually.'"
   },
   "keywords": [
     "design-tokens",
@@ -47,8 +45,5 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  },
-  "devDependencies": {
-    "style-dictionary": "5.1.1"
   }
 }
